@@ -223,4 +223,3 @@ const pairAndInPairs = baseReduce.reduce(function(prev, act) {
 
 console.log(pairAndInPairs);
 
-
